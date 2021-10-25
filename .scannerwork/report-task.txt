@@ -1,0 +1,6 @@
+projectKey=bars-service.jona.contreras
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=bars-service.jona.contreras
+ceTaskId=AXvdW0iPlEVLjnT30_aA
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXvdW0iPlEVLjnT30_aA
